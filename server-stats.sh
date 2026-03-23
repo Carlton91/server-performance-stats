@@ -1,4 +1,4 @@
-git clone https://github.com/<your-username>/server-performance-stats.git
+git clone https://github.com/Carlton91/server-performance-stats
 cd server-performance-stats
 
 # Copy your script into the repo folder
